@@ -1,0 +1,13 @@
+streamlit
+feedparser
+pandas
+requests
+beautifulsoup4
+plotly
+openpyxl
+googlenewsdecoder
+transformers
+torch
+sentencepiece
+protobuf
+accelerate
